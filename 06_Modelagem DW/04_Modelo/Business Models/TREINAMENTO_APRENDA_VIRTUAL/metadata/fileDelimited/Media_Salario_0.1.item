@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_5VAKQT4pEemSBobhg6tpJg" name="Media_Salario" dataPackage="_5VAKQj4pEemSBobhg6tpJg" Server="Localhost 127.0.0.1" FilePath="X:/01_Base/Media_Salario_2.csv" Format="MAC" Encoding="UTF-8" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\r&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_5VAKQj4pEemSBobhg6tpJg" name="default" dataManager="_5VAKQT4pEemSBobhg6tpJg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_5VAKQz4pEemSBobhg6tpJg" id="_oFVZQD4pEemSBobhg6tpJg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5VAKRD4pEemSBobhg6tpJg" label="CBO" length="6" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5VAKRT4pEemSBobhg6tpJg" label="Cargo" length="54" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5VAKRj4pEemSBobhg6tpJg" label="Jornada" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5VAKRz4pEemSBobhg6tpJg" label="Piso" length="7" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5VAKSD4pEemSBobhg6tpJg" label="Media" length="7" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5VAKST4pEemSBobhg6tpJg" label="Maior" length="8" precision="4" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_5VAKSj4pEemSBobhg6tpJg" label="Salario_Hora" length="5" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

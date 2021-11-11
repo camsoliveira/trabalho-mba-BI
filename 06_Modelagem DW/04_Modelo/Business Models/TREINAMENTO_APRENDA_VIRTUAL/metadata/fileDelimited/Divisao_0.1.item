@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_TIsnQT4pEemSBobhg6tpJg" name="Divisao" dataPackage="_TIsnQj4pEemSBobhg6tpJg" Server="Localhost 127.0.0.1" FilePath="X:/01_Base/Divisao.csv" Format="MAC" Encoding="windows-1252" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\r&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_TIsnQj4pEemSBobhg6tpJg" name="default" dataManager="_TIsnQT4pEemSBobhg6tpJg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_TIsnQz4pEemSBobhg6tpJg" id="_HvXXgD4pEemSBobhg6tpJg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TIsnRD4pEemSBobhg6tpJg" label="Codigo" length="1" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_TIsnRT4pEemSBobhg6tpJg" label="Divisao" length="11" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

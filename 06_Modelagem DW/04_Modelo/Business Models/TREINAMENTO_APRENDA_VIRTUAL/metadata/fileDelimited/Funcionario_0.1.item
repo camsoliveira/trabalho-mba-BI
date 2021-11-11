@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_nYx1QT4pEemSBobhg6tpJg" name="Funcionario" dataPackage="_nYx1Qj4pEemSBobhg6tpJg" Server="Localhost 127.0.0.1" FilePath="X:/01_Base/Funcionario.csv" Format="MAC" Encoding="windows-1252" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\r&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true" EscapeType="CSV" CsvOption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_nYx1Qj4pEemSBobhg6tpJg" name="default" dataManager="_nYx1QT4pEemSBobhg6tpJg">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_nYx1Qz4pEemSBobhg6tpJg" id="_TxOm4D4pEemSBobhg6tpJg" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nYx1RD4pEemSBobhg6tpJg" label="Codigo" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nYx1RT4pEemSBobhg6tpJg" label="Sobrenome" length="10" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_nYx1Rj4pEemSBobhg6tpJg" label="Nome" length="9" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

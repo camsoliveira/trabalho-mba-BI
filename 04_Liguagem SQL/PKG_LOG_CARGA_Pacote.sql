@@ -1,0 +1,18 @@
+/*
+-- 
+-- ATIVIDADE 2/2
+
+-- Equipe 5: Camila Oliveira e Rosana Cardoso
+--
+-- Script: 1.1. PKG_LOG_CARGA_Pacote
+--
+-- Criar Pacote PKG_LOG_CARGA
+
+*/
+CREATE OR REPLACE PACKAGE PKG_LOG_CARGA AS 
+
+  PROCEDURE UP_INS_LOGCARGA (id_log NUMBER, des_log VARCHAR2, dt_ini DATE);
+  PROCEDURE UP_UPD_LOGCARGA (id_log NUMBER, dt_fim DATE, erro VARCHAR2);
+  FUNCTION FC_VERIFICA_ERRO RETURN NUMBER;
+  
+END PKG_LOG_CARGA; 

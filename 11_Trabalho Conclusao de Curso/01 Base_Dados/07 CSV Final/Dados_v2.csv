@@ -1,0 +1,20 @@
+Tema;Município;Descrição das Variáveis
+População;População residente;Total de pessoas residentes no município
+População;População Rural;Total de pessoas residentes em áreas rurais
+População;Unidade Domestica;É o domicílio particular ou a unidade de habitação em domicílio coletivo
+Renda;Rendimento mensal total domiciliar per capita nominal;Resultado do calculo da razão entre o total dos rendimentos domiciliares (em termos nominais) e o total dos moradores
+Renda;Economicamente Ativa;População empregada ou que possui condições de trabalhar e que realiza algum esforço mínimo para isto.
+Renda;Indice Gini;Calculado para a distribuição do rendimento nominal mensal das pessoas com 10 anos de idade ou mais, com rendimento, e do rendimento nominal mensal dos dos domicilios particulares permanentes, com rendimento domiciliar. É a medida do grau de concentração de uma distribuição, cujo valor varia de zero (0), a perfeita igualdade, até 1, a desigualdade máxima. 
+Renda / Trabalho;Percentual Populacao Economicamente Ativa - Sem Rendimento;População empregada ou que possui condições de trabalhar e que realiza algum esforço mínimo para isto, sem rendimento.
+Renda / Trabalho;Percentual Populacao Não Economicamente Ativa - Com Rendimento;Pessoas que não possuem idade, interesse ou condições de exercer algum ofício e possui rendimentos
+Renda / Trabalho;Percentual de Pessoas com mais de 10 anos sem rendimento;Razão do total de pessoas com mais de 10 anos e sem rendimentos e o total de pessoas com mais de 10 anos.
+Trabalho;Percentual de Pessoas com mais de 10 anos com menos 1 salario;Razão do total de pessoas com mais de 10 anos e com rendimento até 1 salário mínimo e o total de pessoas com mais de 10 anos.
+Trabalho;Pessoas de 10 anos ou mais de idade, ocupadas na semana de referência; Pessoas que, na semana de referência, trabalharam pelo menos uma hora completa em trabalho remunerado com mais de 10 anos ou mais de idade.
+Educação;Número de Analfabetos;Quantidade de pessoas incapazes de ler e escrever um bilhete simples no idioma que conhecesse
+Educação;Percentual de Pessoas acima 25 anos sem Instrucao e fundamental incompleto;Razão entre o total de pessoas que não tem instrução ou não concluiram o ensino médio e o total da população com 25 anos ou mais.
+Saúde;Residencias com Saneamento Semi-Inadequado;Número de residencias que possui acesso a rede de abastecimento geral de água OU esgotamento sanitário por rede geral ou fossa septica.
+Saúde;Residencias com Saneamento Inadequado;Número de residencias que não possui acesso a rede de abastecimento geral de água E esgotamento sanitário por rede geral ou fossa septica.
+IDHM;IDHM 2010;índice de Desenvolvimento Humano por Municipio composto pelos indicadores IDHM Renda, IDHM Longevidade e IDHM Educação
+IDHM;IDHM Renda 2010;Indicador composto pela renda per capita dos municipios
+IDHM;IDHM Longevidade 2010;Indicador composto pela expectativa de vida
+IDHM;IDHM Educação 2010;Indicador composto com base no resultado referente a educação

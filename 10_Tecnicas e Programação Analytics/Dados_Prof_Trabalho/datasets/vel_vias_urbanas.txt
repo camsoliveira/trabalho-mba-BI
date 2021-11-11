@@ -1,0 +1,3 @@
+vel_vias_expr,80
+vel_vias_art,60
+vel_vias_col,40

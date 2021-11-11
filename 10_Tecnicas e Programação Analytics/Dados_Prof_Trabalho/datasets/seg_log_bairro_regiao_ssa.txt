@@ -1,0 +1,169 @@
+regiao	bairro
+Aeroporto	Aeroporto
+Aeroporto	Alto do Coqueirinho
+Aeroporto	Alto do Cruzeiro
+Aeroporto	Areia Branca
+Aeroporto	Bairro da Paz
+Aeroporto	Boca da Mata
+Aeroporto	Boca do Rio
+Aeroporto	Cajazeiras II
+Aeroporto	Cajazeiras IV
+Aeroporto	Cajazeiras V
+Aeroporto	Cajazeiras VI
+Aeroporto	Cajazeiras VII
+Aeroporto	Cajazeiras VIII
+Aeroporto	Cajazeiras X
+Aeroporto	Cajazeiras XI
+Aeroporto	Canabrava
+Aeroporto	Cassange
+Aeroporto	Centro Administrativo da Bahia
+Aeroporto	Costa Azul
+Aeroporto	Dom Avelar
+Aeroporto	Fazenda Grande I
+Aeroporto	Fazenda Grande II
+Aeroporto	Fazenda Grande III
+Aeroporto	Fazenda Grande IV
+Aeroporto	Imbuí
+Aeroporto	Itapuã
+Aeroporto	Itinga (parte Salvador)
+Aeroporto	Jaguaripe I
+Aeroporto	Jardim Armação
+Aeroporto	Jardim Cajazeiras
+Aeroporto	Jardim das Margaridas
+Aeroporto	Jardim Nova Esperança
+Aeroporto	Mussurunga
+Aeroporto	Nova Brasília
+Aeroporto	Nova Esperança
+Aeroporto	Novo Marotinho
+Aeroporto	Patamares
+Aeroporto	Pau da Lima
+Aeroporto	Piatã
+Aeroporto	Pituaçu
+Aeroporto	São Cristóvão
+Aeroporto	São Marcos
+Aeroporto	São Rafael
+Aeroporto	Sete de Abril
+Aeroporto	Stella Maris
+Aeroporto	STIEP
+Aeroporto	Trobogy
+Aeroporto	Vale dos Lagos
+Aeroporto	Vila Canária
+Brotas	Acupe
+Brotas	Baixa de Quintas
+Brotas	Boa Vista de Brotas
+Brotas	Brotas
+Brotas	Caixa D'Água
+Brotas	Caminho das Árvores
+Brotas	Candeal
+Brotas	Cidade Nova
+Brotas	Cosme de Farias
+Brotas	Curuzu
+Brotas	Engenho Velho de Brotas
+Brotas	Horto Florestal
+Brotas	IAPI
+Brotas	Itaigara
+Brotas	Lapinha
+Brotas	Luiz Anselmo
+Brotas	Macaúbas
+Brotas	Matatu
+Brotas	Nordeste de Amaralina
+Brotas	Pau Miúdo
+Brotas	Pero Vaz
+Brotas	Pituba
+Brotas	Santa Cruz
+Brotas	Santa Mônica
+Brotas	Santo Agostinho
+Brotas	Santo Antônio
+Brotas	Vila Laura
+Cabula	Arenoso
+Cabula	Arraial do Retiro
+Cabula	Barreiras
+Cabula	Beiru/Tancredo Neves
+Cabula	Cabula
+Cabula	Cabula VI
+Cabula	Calabetão
+Cabula	Doron
+Cabula	Engomadeira
+Cabula	Granjas Rurais Presidente Vargas
+Cabula	Jardim Santo Inácio
+Cabula	Mata Escura
+Cabula	Narandiba
+Cabula	Nova Sussuarana
+Cabula	Novo Horizonte
+Cabula	Pernambués
+Cabula	Resgate
+Cabula	Saboeiro
+Cabula	São Gonçalo
+Cabula	Saramandaia
+Cabula	Sussuarana
+Centro	Barbalho
+Centro	Barris
+Centro	Canela
+Centro	Centro
+Centro	Centro Histórico
+Centro	Chame-Chame
+Centro	Comércio
+Centro	Dois de Julho
+Centro	Garcia
+Centro	Nazaré
+Centro	Saúde
+Centro	Tororó
+Centro	Vitória
+Cidade Baixa	Boa Viagem
+Cidade Baixa	Bonfim
+Cidade Baixa	Calçada
+Cidade Baixa	Caminho de Areia
+Cidade Baixa	Mangueira
+Cidade Baixa	Mares
+Cidade Baixa	Massaranduba
+Cidade Baixa	Monte Serrat
+Cidade Baixa	Ribeira
+Cidade Baixa	Roma
+Cidade Baixa	Uruguai
+Cidade Baixa	Vila Ruy Barbosa/Jardim Cruzeiro
+Federação	Alto das Pombas
+Federação	Amaralina
+Federação	Barra
+Federação	Calabar
+Federação	Chapada do Rio Vermelho
+Federação	Engenho Velho da Federação
+Federação	Federação
+Federação	Graça
+Federação	Ondina
+Federação	Rio Vermelho
+Federação	Vale das Pedrinhas
+Subúrbio	Águas Claras
+Subúrbio	Alto da Terezinha
+Subúrbio	Alto do Cabrito
+Subúrbio	Boa Vista de São Caetano
+Subúrbio	Bom Juá
+Subúrbio	Campinas de Pirajá
+Subúrbio	Capelinha
+Subúrbio	Castelo Branco
+Subúrbio	Colinas de Periperi
+Subúrbio	Coutos
+Subúrbio	Fazenda Coutos
+Subúrbio	Fazenda Grande do Retiro
+Subúrbio	Ilha Amarela
+Subúrbio	Itacaranha
+Subúrbio	Liberdade
+Subúrbio	Lobato
+Subúrbio	Marechal Rondon
+Subúrbio	Mirantes de Periperi
+Subúrbio	Moradas da Lagoa
+Subúrbio	Nova Constituinte
+Subúrbio	Palestina
+Subúrbio	Paripe
+Subúrbio	Periperi
+Subúrbio	Pirajá
+Subúrbio	Plataforma
+Subúrbio	Porto Seco Pirajá
+Subúrbio	Praia Grande
+Subúrbio	Retiro
+Subúrbio	Rio Sena
+Subúrbio	Santa Luzia
+Subúrbio	São Caetano
+Subúrbio	São João do Cabrito
+Subúrbio	São Tomé
+Subúrbio	Valéria
+Subúrbio	Vista Alegre
